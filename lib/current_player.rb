@@ -21,3 +21,11 @@ end
 
 
 
+=======
+  end
+end
+
+def current_player
+  #code 
+end 
+>>>>>>> e4f2ea0a28c13ff1d23440676a924a94bc50dca4
